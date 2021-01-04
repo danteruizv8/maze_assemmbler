@@ -9,3 +9,5 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+laberintos/Laberinto1/.gdb_history
+laberintos/Laberinto2/.gdb_history
